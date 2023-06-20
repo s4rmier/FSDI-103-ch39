@@ -1,0 +1,43 @@
+// Fulfilling the Assingment requirements
+
+let app1 = "Google";
+let app2 = "YouTube";
+let app3 = "Facebook";
+let app4 = "Twitter";
+let app5 = "Amazon";
+let app6 = "Netflix";
+let app7 = "Gmail";
+let app8 = "LinkedIn";
+let app9 = "Instagram";
+let app10 = "Spotify";
+let app11 = "Wordpress";
+let app12 = "Shopify";
+let app13 = "Trello";
+let app14 = "Zoom";
+let app15 = "Slack";
+let app16 = "Dropbox";
+let app17 = "GitHub";
+let app18 = "Canva";
+let app19 = "Mail Chimp";
+let app20 = "Google Drive";
+
+document.write(`<li>${app1}</li>`);
+document.write(`<li>${app2}</li>`);
+document.write(`<li>${app3}</li>`);
+document.write(`<li>${app4}</li>`);
+document.write(`<li>${app5}</li>`);
+document.write(`<li>${app6}</li>`);
+document.write(`<li>${app7}</li>`);
+document.write(`<li>${app8}</li>`);
+document.write(`<li>${app9}</li>`);
+document.write(`<li>${app10}</li>`);
+document.write(`<li>${app11}</li>`);
+document.write(`<li>${app12}</li>`);
+document.write(`<li>${app13}</li>`);
+document.write(`<li>${app14}</li>`);
+document.write(`<li>${app15}</li>`);
+document.write(`<li>${app16}</li>`);
+document.write(`<li>${app17}</li>`);
+document.write(`<li>${app18}</li>`);
+document.write(`<li>${app19}</li>`);
+document.write(`<li>${app20}</li>`);
